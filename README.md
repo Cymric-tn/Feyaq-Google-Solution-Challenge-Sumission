@@ -47,8 +47,8 @@ The model architecture consists of the following steps:
 
 **Dependencies:**
 -
--Tensorflow: For the computer vision technology
--Flutter: For the mobile app.
--Google clouds: To store the data of the cameras.
--Firebase: To connect between the app,the cameras and the deep learning algorithm.
+- Tensorflow: For the computer vision technology
+- Flutter: For the mobile app.
+- Google clouds: To store the data of the cameras.
+- Firebase: To connect between the app,the cameras and the deep learning algorithm.
  
